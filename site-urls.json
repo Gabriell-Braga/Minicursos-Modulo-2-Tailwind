@@ -1,6 +1,5 @@
 {
-  "_comment": "Preencher quando o usuário enviar as URLs finais. Usado nos headers dos modulo-*.html no GitHub Pages.",
-  "githubRepo": null,
-  "fluxolabAppOnline": null,
-  "slidesGithubPages": null
+  "fluxolabAppOnline": "https://gabriell-braga.github.io/fluxolab-app/",
+  "tailwindMinicourse": "https://gabriell-braga.github.io/Minicursos-Modulo-2---Tailwind/modulo-1-intro-setup.html",
+  "githubRepo": "https://github.com/gabriell-braga/fluxolab-app"
 }
